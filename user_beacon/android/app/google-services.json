@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309540810884",
+    "project_id": "testbeaconapp-6775b",
+    "storage_bucket": "testbeaconapp-6775b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309540810884:android:bb7eaabc257e1880ddd2d1",
+        "android_client_info": {
+          "package_name": "com.example.staffe_beacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309540810884-qj4crk0pjj5i0qin74q0k06o9k2v8ls9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7UGCxXi59DP5UzIgSZMaka9VdzLMtPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309540810884-qj4crk0pjj5i0qin74q0k06o9k2v8ls9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

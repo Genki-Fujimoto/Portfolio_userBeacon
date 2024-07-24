@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309540810884-6b6lj4i5guqiif6bl8hb5a9eiatiuu84.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309540810884-6b6lj4i5guqiif6bl8hb5a9eiatiuu84</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBY19FyFHbvWJZ9-sNDwIP4Ahjg0cn9P3g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309540810884</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.staffeBeacon</string>
+	<key>PROJECT_ID</key>
+	<string>testbeaconapp-6775b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testbeaconapp-6775b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309540810884:ios:2540e0e575c68f2bddd2d1</string>
+</dict>
+</plist>
